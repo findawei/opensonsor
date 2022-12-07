@@ -2,4 +2,5 @@
 
 npm i
 
-npm run dev to run server and client
+To run server and client
+npm run dev
